@@ -5,6 +5,9 @@ This project aims to detect and identify different types of vehicles in images u
 
 # Features
 Vehicle Detection: Identifies vehicles in images.
+
 Type Classification: Classifies detected vehicles (e.g., car, truck, motorcycle).
+
 Real-Time Processing: Processes images quickly with high accuracy.
+
 API Integration: Uses APIs for seamless data input and output.
